@@ -1,6 +1,6 @@
 ## Olá! Eu sou Diogo França.
 
-<div align="center">
+<div style="display: inline_block"align="center">
   <a href="https://github.com/DiogoFranca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoFranca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoFranca&layout=compact&langs_count=7&theme=dracula"/>
